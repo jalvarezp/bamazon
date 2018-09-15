@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jalvarezp/bamazon#readme",
   "dependencies": {
-    "node-modules": "^1.0.1"
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
   }
 }
